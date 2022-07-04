@@ -27,7 +27,7 @@ int main(void) {
 	{
 		count++;
 
-		if (count >= i)
+		if (count >= p[i])
 		{
 			result += 1;
 			count = 0;
